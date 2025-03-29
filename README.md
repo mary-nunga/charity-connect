@@ -48,6 +48,7 @@ Fully responsive design using bootstrap
 **HOW TO RUN LOCALLY:**
 1. Download or clone the repository.
 2. Import the project into XAMPP- htdocs folder
-3. Import the charity connect database into phpMyAdmin
-4. Start Apache and MySQL on XAMPP.
-5. Visit http://localhost/project to access the application
+3. To import the database, open phpMyAdmin and create a database called charity_connect.
+4. Click import and upload charity_connect.sql.
+5. Start Apache and MySQL on XAMPP.
+6. Visit http://localhost/project to access the application
