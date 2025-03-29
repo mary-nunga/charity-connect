@@ -9,23 +9,27 @@ and make donations through a simple interface and for system administrators to a
 
 **FEATURES**
 1. Admin can:
+   
    -Add, edit and delete donation profiles.
    - Manage user accounts.
    - View all donations made by all users.
    
 3. Users can:
+   
    - View donation stories in a card layout.
    - Donate through a simple form.
    - View all the previous donations made.
 Fully responsive design using bootstrap
 
 **TECH STACK:**
+
 1. Frontend: HTML, CSS , Bootstrap.
 2. Backend: PHP
 3. Database: MySQL
 4. Text editor: Dreamweaver
 
 **SCREENSHOTS**
+
 1. DONATION PROFILE
 ![image](https://github.com/user-attachments/assets/ca02101d-be1c-44db-8fff-cb5a61e17c38)
 
