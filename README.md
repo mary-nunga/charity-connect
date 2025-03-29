@@ -10,7 +10,7 @@ and make donations through a simple interface and for system administrators to a
 **FEATURES**
 1. Admin can:
    
-   -Add, edit and delete donation profiles.
+   - Add, edit and delete donation profiles.
    - Manage user accounts.
    - View all donations made by all users.
    
