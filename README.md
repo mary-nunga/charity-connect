@@ -1,7 +1,9 @@
 **CHARITY CONNECT**
+
 A web-based platform for managing and viewing donations. Built with HTML, CSS, PHP, MYSQL and Bootstrap.
 
 **OVERVIEW**
+
 CHarity Connect is a simple donation management web application.It provides an easy way for users to browse profiles, read their stories, 
 and make donations through a simple interface and for system administrators to add, edit and delete donation profiles and also manage users.
 
